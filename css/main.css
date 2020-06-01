@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+}
+
+
+.todo-filter {
+    background-color: lightskyblue;
+    padding: 10px 20px;
+}
+.todo-stat {
+    margin: 20px;
+    background-color: lightgray;
+    padding: 10px 20px;
+}
+
+.todo-stat span {
+    font-family: fantasy;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.box {
+    background-color: beige;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+.monster {
+    background-color: greenyellow;
+    height: 20px;
+    width: 30px;
+    position: relative;
+    top:20px;
+    left: 30px;
+    border-radius: 15px;
+}
